@@ -1,0 +1,8 @@
+#Commentaires
+#name; cost; idEffet; pngName; effect-value;
+#
+couteau a beurre; 1; 1; couteauabeurre.png; 40;
+double hache; 2; 1; doublehache.png; 3;
+lait perime; 1; 4; laitperime.png; 1;
+the vert; 1; 0; thevert.png; 1;
+the bleu;1;0;thebleu.png; 10;

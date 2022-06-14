@@ -1,0 +1,8 @@
+#Commentaires;
+#Lieu = cartes pouvant apparaitre apres avoir battu le boss du lieu;
+#;
+Egouts = couteau a beurre;
+Labyrinthe = lait perime;
+Enfers = lait perime;
+Paradis = the vert, lait perime, couteau a beurre;
+Neant = the vert;

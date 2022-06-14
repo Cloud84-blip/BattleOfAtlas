@@ -1,0 +1,31 @@
+Authors: drjamgo@hotmail.com, Stephen Challener (Redshrike), Johannes Sjölund (wulax), Matthew Krohn (makrohn), Thane Brimhall (pennomi), David Conway Jr. (JaidynReiman), Yamilian, bluecarrot16, Michael Whitlock (bigbeargames), Tracy, Nila122, Luke Mehl
+
+- shadow/adult/shadow.png: by drjamgo@hotmail.com. License(s): CC0. 
+    - https://opengameart.org/content/shadow-for-lpc-sprite
+
+- body/female/human/olive.png: by Stephen Challener (Redshrike), Johannes Sjölund (wulax), Matthew Krohn (makrohn). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+    - https://opengameart.org/content/lpc-ladies
+
+- head/ears/elven/female/tanned2.png: by Thane Brimhall (pennomi), Matthew Krohn (makrohn), David Conway Jr. (JaidynReiman). License(s): GPL 3.0, CC-BY-SA 3.0. 
+    - https://opengameart.org/content/lpc-base-character-expressions
+
+- eyes/female/blue.png: by Matthew Krohn (makrohn), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+
+- hair/long_messy2/female/sandy.png: by Yamilian, bluecarrot16. License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-heroine-2
+    - https://opengameart.org/content/lpc-hair
+
+- hat/magic/female/no_moon.png: by Michael Whitlock (bigbeargames), Tracy. License(s): OGA-BY 3.0. 
+    - https://opengameart.org/content/lpc-celestial-wizard-hats
+
+- neck/scarf/red.png: by Nila122, Johannes Sjölund (wulax), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/more-lpc-clothes-and-hair
+
+- torso/clothes/robe/female/blue.png: by Luke Mehl. License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/female-mage-clothing-set
+
+- feet/boots/female/red.png: by Nila122, Johannes Sjölund (wulax), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-clothes-and-hair

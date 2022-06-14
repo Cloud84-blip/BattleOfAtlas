@@ -1,0 +1,40 @@
+Authors: Stephen Challener (Redshrike), Johannes Sjölund (wulax), Matthew Krohn (makrohn), Thane Brimhall (pennomi), David Conway Jr. (JaidynReiman), bluecarrot16, Nila122, ElizaWy, Lanea Zimmerman (Sharm), Joe White
+
+- body/female/human/white.png: by Stephen Challener (Redshrike), Johannes Sjölund (wulax), Matthew Krohn (makrohn). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+    - https://opengameart.org/content/lpc-ladies
+
+- head/nose/straight/female/light.png: by Thane Brimhall (pennomi), Matthew Krohn (makrohn). License(s): GPL 3.0, CC-BY-SA 3.0. 
+    - https://opengameart.org/content/lpc-base-character-expressions
+
+- eyes/female/purple.png: by David Conway Jr. (JaidynReiman), Matthew Krohn (makrohn), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+
+- hair/bangs_bun/female/black.png: by bluecarrot16. License(s): CC0. 
+    - https://opengameart.org/content/lpc-hair
+
+- hat/pirate/kerchief/female/black.png: by bluecarrot16, Nila122. License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/more-lpc-clothes-and-hair
+    - https://opengameart.org/content/lpc-pirates
+
+- bracers/female/2.png: by Matthew Krohn (makrohn), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- torso/clothes/corset/female/maroon.png: by ElizaWy, Nila122. License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-clothes-and-hair
+    - https://opengameart.org/content/lpc-7-womens-shirts
+
+- torso/clothes/blouse_longsleeve/female/leather.png: by ElizaWy, Lanea Zimmerman (Sharm). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-7-womens-shirts
+
+- legs/pants/female/maroon.png: by bluecarrot16, David Conway Jr. (JaidynReiman), Joe White, Matthew Krohn (makrohn), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- feet/boots/female/black.png: by Nila122, Johannes Sjölund (wulax), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-clothes-and-hair
+
+- weapon/bow/10.png: by Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. bow black
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites

@@ -1,0 +1,8 @@
+#Commentaires;
+#Lieu = cartes a gagner apres un combat ou dans la boutique;
+#;
+Egouts = couteau a beurre, lait perime, double hache;
+Labyrinthe = lait perime;
+Enfers = lait perime, couteau a beurre;
+Paradis = the vert, lait perime, couteau a beurre;
+Neant = couteau a beurre;

@@ -1,0 +1,7 @@
+#Commentaires;
+#NomHeros = cartes composant son deck;
+#Les cartes peuvent etre suivies d'un chiffre afin d'en ajouter autant;
+#;
+guerrier = the bleu;
+mage = lait perime2, the vert, lait perime3;
+voleur = couteau a beurre, lait perime2, the vert2;
